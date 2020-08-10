@@ -1,0 +1,29 @@
+.Answer_wrapper {
+  width: 100%;
+  min-height: 40px;
+  padding: 5px;
+}
+.Answer_container {
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+.Answer_id {
+  height: 100%;
+  padding: 20px;
+  color: white;
+  background-color: #848ccf;
+  text-transform: capitalize;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.Answer_title {
+  padding: 20px;
+  height: 100%;
+  text-transform: capitalize;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+}
